@@ -1,0 +1,24 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dia-Bhavsar/React-Basics.git"
+  },
+  "author": "Dia Bhavsar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dia-Bhavsar/React-Basics/issues"
+  },
+  "homepage": "https://github.com/Dia-Bhavsar/React-Basics#readme",
+  "dependencies": {
+    "parcel": "^2.15.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
